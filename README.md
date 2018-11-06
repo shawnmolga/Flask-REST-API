@@ -29,7 +29,7 @@ $ python my_api.py
 ```
 Access the application at the address [http://127.0.0.1:5000/]
 
-###Shell Client
+### Shell Client
 1. save the json file you would like to upload to the API in the current directory, 
     in the name "to_upload.json"
 2. run:
