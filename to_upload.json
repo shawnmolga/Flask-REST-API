@@ -1,0 +1,12 @@
+[
+{"url" : "https://hyver-security.com?r=1", "target_ip" : "127.0.0.1"}, 
+{"url" : "https://hyver-security.com?r=2", "target_ip" : "127.0.0.1"},
+{"url" : "https://hyver-security.com?r=3", "target_ip" : "127.0.0.1"},
+{"url" : "https://hyver-security.com?r=4", "target_ip" : "127.0.0.1"},
+{"url" : "https://hyver-security.com?r=5", "target_ip" : "127.0.0.1"},
+{"url" : "https://hyver-security.com?r=6", "target_ip" : "127.0.0.1"},
+{"url" : "https://hyver-security.com?r=7", "target_ip" : "127.0.0.1"},
+{"url" : "https://hyver-security.com?r=8", "target_ip" : "127.0.0.1"},
+{"url" : "https://hyver-security.com?r=9", "target_ip" : "127.0.0.1"},
+{"url" : "https://hyver-security.com?r=10", "target_ip" : "127.0.0.1"}
+]
