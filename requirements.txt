@@ -20,7 +20,7 @@ pyOpenSSL==18.0.0
 pycparser==2.19
 pytest==3.9.3
 requests==2.19.1
-setuptools==39.0.1
+setuptools==65.5.1
 six==1.11.0
 urllib3==1.23
 virtualenv==16.1.0
